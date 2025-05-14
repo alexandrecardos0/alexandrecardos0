@@ -2,7 +2,7 @@
 
 **`Estudante Desenvolvimento FullStack`**
 
-Me chamo Alexandre Augusto Cardoso, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio em 2021. Atualmente, estou estudando desenvolvimento de sistemas e desenvolvimento web no senac/SC juntamente com o prgrama jovem programador. Sou apaixonado por tecnologia desde criança e hoje busco aprender cada dia mais sobre essa área tão rica❗
+Me chamo Alexandre Augusto Cardoso, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio em 2021. Atualmente, estou estudando desenvolvimento de sistemas e desenvolvimento web no senac/SC juntamente com o programa jovem programador. Sou apaixonado por tecnologia desde criança e hoje busco aprender cada dia mais sobre essa área!
 
 
 ### 🤖 Linguagens e Tecnologias
