@@ -15,14 +15,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 21 anos e sou natural do Paraná. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
  />  
-
-<br/>
-<br/>
-
-### 📘 Aprendendo no momento 
-
-
-<img
+ <img
     align="left" 
     alt="CSS"
     title="CSS" 
@@ -30,21 +23,22 @@ Me chamo Alexandre Augusto Cardoso, tenho 21 anos e sou natural do Paraná. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 
+<br/>
+<br/>
+
+### 📘 Aprendendo no momento 
+
+
+
 <img
     align="left" 
-    alt="SQL"
+    alt="PHP"
     title="SQL" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+           
 
-<img    
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
 
 <br/>   
 <br/>
