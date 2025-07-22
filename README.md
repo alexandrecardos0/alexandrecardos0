@@ -24,7 +24,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos. Concluí o ensino médio em 2
 
 ---
 
-**`Desenvolvedor Web Júnior`**
+
 
 
 
