@@ -35,11 +35,11 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 
  <img
     align="left" 
-    alt="PHP"
-    title="SQL" 
+    alt="Tailwind"
+    title="Tailwind" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" />   
+    src="[https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)" />   
 <br/>
 <br/>
 
@@ -47,13 +47,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 
 
 
-<img
-    align="left" 
-    alt="PHP"
-    title="SQL" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
            
 
 
