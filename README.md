@@ -36,7 +36,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
  
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=6&bg_color=00000000)
 
 
  
