@@ -4,44 +4,46 @@
 
 Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Concluí o ensino médio em 2021. Atualmente, estou estudando desenvolvimento web e trabalho na equipe da H2k como desenvolvedor Júnior, Front-end, PHP, Tailwind Css. Sou apaixonado por tecnologia desde criança e hoje busco aprender cada dia mais sobre essa área!
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
+<p align="left">
+  <img 
     alt="HTML"
     title="HTML" 
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
- />  
- 
- <img
-    align="left" 
+  />
+
+  <img
     alt="CSS"
     title="CSS" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+  />
 
-
-<img
-    align="left" 
+  <img
     alt="PHP"
-    title="SQL" 
+    title="PHP" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+  />
+</p>
 
- 
+<br/>
+
 ## 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=6&bg_color=00000000)
 
-
- 
+---
 
 **`Desenvolvedor Web Júnior`**
+
 
 
 
