@@ -9,29 +9,11 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-  />
-
-  <img
-    alt="CSS"
-    title="CSS" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-  />
-
-  <img
-    alt="PHP"
-    title="PHP" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="50px" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="50px" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="50px" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50px" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50px" style="margin-right: 10px;" />
 </p>
 
 <br/>
@@ -43,6 +25,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 ---
 
 **`Desenvolvedor Web Júnior`**
+
 
 
 
