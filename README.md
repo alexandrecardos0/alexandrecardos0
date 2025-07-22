@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Júnior`**
 
-Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Concluí o ensino médio em 2021. Atualmente, estou estudando desenvolvimento web e trabalho na equipe da H2k como desenvolvedor Júnior, Front-end, PHP, Tailwind Css. Sou apaixonado por tecnologia desde criança e hoje busco aprender cada dia mais sobre essa área!
+Me chamo Alexandre Augusto Cardoso, tenho 22 anos. Concluí o ensino médio em 2021. Atualmente, estou estudando desenvolvimento web e trabalho na equipe da H2k como desenvolvedor Júnior, Front-end, PHP, Tailwind Css. Sou apaixonado por tecnologia e design desde criança e hoje busco aprender cada dia mais sobre essas áreas!
 
 ---
 
