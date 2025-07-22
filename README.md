@@ -35,7 +35,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 
  
 
- # 🚀🤖📘 
+ 
 
 **`Desenvolvedor Web Júnior`**
 
