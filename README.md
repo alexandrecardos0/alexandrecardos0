@@ -33,14 +33,7 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
- <img
-  align="left" 
-  alt="Tailwind"
-  title="Tailwind CSS" 
-  width="50px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" />
-   
+ 
 
  # 🚀🤖📘 
 
@@ -49,88 +42,6 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos e sou natural do Paraná. Conc
 
 
 
-
-<!--
-**alexandrecardos0/alexandrecardos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-    
-<br/>
-<br/>
-
-### 📘 Aprendendo no momento 
-
-
-
-
-           
-
-
-<br/>   
-<br/>
-
-
-
-<!--
-**alexandrecardos0/alexandrecardos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-   
-<br/>
-<br/>
-
-### 📘 Aprendendo no momento 
-
-
-
-
-           
-
-
-<br/>   
-<br/>
-
-
-
-<!--
-**alexandrecardos0/alexandrecardos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-   
-<br/>
-<br/>
-
-### 📘 Aprendendo no momento 
 
 
 
