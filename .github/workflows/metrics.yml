@@ -1,44 +1,40 @@
 name: Metrics (Linguagens privadas + colaboração)
 
 on:
-  schedule: [{ cron: "0 6 * * *" }]  # roda todo dia às 06:00 UTC (03:00 em São Paulo)
+  schedule:
+    - cron: "0 6 * * *"   # roda todo dia às 06:00 UTC (03:00 em São Paulo)
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # necessário para commitar o SVG no repositório
+      contents: write       # precisa escrever o SVG no repositório
     steps:
-            - uses: lowlighter/metrics@latest
+      - name: Generate languages metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # --- Autenticação ---
+          token: ${{ secrets.METRICS_TOKEN }}   # PAT classic salvo como secret
           user: alexandrecardos0
-          filename: assets/metrics.languages.svg
-          base: ""
+          config_timezone: America/Sao_Paulo
 
-          # === LINGUAGENS ===
+          # --- Saída ---
+          filename: assets/metrics.languages.svg
+
+          # --- Layout base (sem outros cards) ---
+          base: ""
+          template: classic
+
+          # --- LINGUAGENS ---
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage   # mostra %
+          plugin_languages_categories: programming, markup    # foca front + PHP
           plugin_languages_limit: 8
+          plugin_languages_threshold: "2%"                    # esconde < 2%
 
-          # (1) Mostra DETALHES com porcentagem no card
-          plugin_languages_details: bytes-size, percentage
-
-          # (2) Mantém só categorias de interesse (front/markup + programação)
-          plugin_languages_categories: programming, markup
-
-          # (3) Opcional: esconde linguagens abaixo de 2% (resto reescala a 100%)
-          plugin_languages_threshold: 2%
-
-          # IMPORTANTE: remova esta linha se existir!
-          # plugin_languages_ignored: html, css
-
-          # já está ok manter:
-          repositories_affiliations: owner, collaborator, organization_member
-          repositories_forks: no
-
-
-          # incluir privados e afiliações (dono, colaborador e membro de org)
+          # --- Escopo de repositórios (inclui privados e colaboração) ---
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: no
