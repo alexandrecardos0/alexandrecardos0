@@ -20,11 +20,10 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos. Concluí o ensino médio em 2
 
 <br/>
 
-## 📊 Linguagens mais usadas
+## 📊 Linguagens mais usadas (públicos + privados + colaboração)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=6&bg_color=00000000)
+![Linguagens (privadas + públicas)](./assets/metrics.languages.svg)
 
----
 
 
 
