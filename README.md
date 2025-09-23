@@ -20,9 +20,35 @@ Me chamo Alexandre Augusto Cardoso, tenho 22 anos. Concluí o ensino médio em 2
 
 <br/>
 
-## 📊 Linguagens mais usadas (públicos + privados + colaboração)
+## 📊 Minhas Estatísticas
 
-![Linguagens (privadas + públicas)](./assets/metrics.languages.svg)
+<!-- GitHub Readme Stats -->
+<div align="center">
+
+  <!-- Linguagens mais usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+    height="160" 
+    alt="Top Langs"
+  />
+
+  <!-- Stats gerais -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alexandrecardos0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" 
+    height="160" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Streak de commits -->
+  <img 
+    src="https://streak-stats.demolab.com?user=alexandrecardos0&theme=radical&hide_border=true" 
+    height="160" 
+    alt="GitHub Streak"
+  />
+
+</div>
+
+
 
 
 
