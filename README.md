@@ -17,7 +17,7 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
   
 ### 🚀​ Extras 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,canva)](https://skillicons.dev)
 
 <br/>
 
