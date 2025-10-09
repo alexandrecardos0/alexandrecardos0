@@ -13,7 +13,7 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
        src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" />
 </div>
 
-### 🤩 Front-end
+### 🔥​ Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 ### 🤖 Back-end
