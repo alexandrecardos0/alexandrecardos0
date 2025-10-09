@@ -13,12 +13,9 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 ### 🤖​ Back-end
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="50px" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" width="50px" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" title="liveware" width="50px" style="margin-right: 10px;" />
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,node)](https://skillicons.dev)
   
-</p>
+
 
 ### 🚀​ Extras 
 <p alingh="left">
