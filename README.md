@@ -9,7 +9,7 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 ### 🤩​ Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 ### 🤖​ Back-end
 
