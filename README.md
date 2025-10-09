@@ -6,8 +6,10 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 
 ---
-### 🔥​ Linguagens mais usadas
-<img align="right" src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" height="160" />
+<div align="right">
+  <h3>📊 Linguagens mais usadas</h3>
+  <img align="right" src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" height="160" />
+</div>
 
 <!-- ESQUERDA: seus blocos de skills e textos -->
 ### 🤩 Front-end
