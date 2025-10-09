@@ -26,7 +26,6 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="50px" style="margin-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" width="50px" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filamentphp/filamentphp-original.svg" title="Filament" width="50px" style="margin-right: 10px;" />
   
 </p>
 
