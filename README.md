@@ -6,9 +6,11 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 
 ---
+<!-- DIREITA: título + card, colocado logo antes do Front-end -->
 <div align="right">
-  <h3>📊 Linguagens mais usadas</h3>
-  <img align="right" src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" height="160" />
+  <h3></h3>
+  <img align="right" width="380"
+       src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" />
 </div>
 
 ### 🤩 Front-end
@@ -19,6 +21,9 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 ### 🚀 Extras
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,vite,git,github,ai,wordpress)](https://skillicons.dev)
+
+<!-- Fecha o float para o conteúdo seguinte não “subir” -->
+<br clear="both"/>
 
 
 
