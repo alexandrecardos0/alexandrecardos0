@@ -7,6 +7,8 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🤩​ Front-end
 
 <p align="left">
@@ -36,7 +38,7 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="50px" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="Wordpress" width="50px" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="50px" style="margin-right: 10px;" />
-  <i class="devicon-github-original-wordmark"title="Docker" width="50px" style="margin-right: 10px;" />
+  
 
 </p>
 <br/>
