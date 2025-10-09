@@ -26,8 +26,8 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 
 ## 📊 Minhas Estatísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexandrecardos0&theme=transparent&hide_border=true" height="160" />
+<p align="left">
+  
   <img src="https://github-readme-stats-teal-sigma.vercel.app/api/top-langs/?username=alexandrecardos0&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=21600" height="160" />
  
 </p>
