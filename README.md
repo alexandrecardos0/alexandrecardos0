@@ -20,7 +20,7 @@ Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,node)](https://skillicons.dev)
 
 ### 🚀 Extras
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,vite,git,github,ai,wordpress,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,vite,git,github,wordpress,postman)](https://skillicons.dev)
 
 <!-- Fecha o float para o conteúdo seguinte não “subir” -->
 <br clear="both"/>
