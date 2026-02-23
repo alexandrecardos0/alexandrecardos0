@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Web Júnior`**
 
-Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack Júnior com PHP, Laravel, React, Next.js, Filament, Livewire entre outros...
+Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack com PHP, Laravel, React, Tailwind, Next.js, Filament, Livewire entre outros...
 <br/>
 ---
 <!-- DIREITA: título + card, colocado logo antes do Front-end -->
