@@ -2,7 +2,7 @@
 <br/>
 # 🚀🤖📘 
 
-**`Desenvolvedor Web Júnior`**
+**`Desenvolvedor Web`**
 
 Trabalho na **[h2k](https://h2k.com.br)** como desenvolvedor Full Stack com PHP, Laravel, React, Tailwind, Next.js, Filament, Livewire entre outros...
 <br/>
